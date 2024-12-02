@@ -52,8 +52,7 @@
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=EbbeWertzStudentUH&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true)<br/>
-
+![Metrics](https://metrics.lecoq.io/EbbeWertzStudentUH?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 # Get in touch
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/ebbe4356)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ebbe.wertz)
