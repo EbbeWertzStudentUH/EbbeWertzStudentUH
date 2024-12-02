@@ -51,8 +51,6 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white)
 
-# 📊 GitHub Stats:
-![Metrics](https://metrics.lecoq.io/EbbeWertzStudentUH?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 # Get in touch
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/ebbe4356)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ebbe.wertz)
